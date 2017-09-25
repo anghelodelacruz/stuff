@@ -1,0 +1,9 @@
+#+TITLE: LIFE PLANNER
+
+* PROJECTS
+** CHURCH WEBSITE
+*** PLANNING 
+    - Functionality
+    - Examples
+    - Wireframe
+    - 
