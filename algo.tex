@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage{amsmath, fancyhdr, titling, array, tikz, booktabs, ulem}
+\usepackage[plain]{algorithm}
+\usepackage{algpseudocode}
+\usepackage[top=1in,bottom=1in,left=1.5in,right=1.5in]{geometry}
+\pagestyle{fancy}
+\lhead{\theauthor}\chead{\thetitle}\rhead{\thedate} 
+
+% ----- ENVIRONMENT ----- %
+\newcounter{ProblemNum}
+\newcounter{SubProblemNum}[ProblemNum]
+\renewcommand{\theProblemNum}{\arabic{ProblemNum}}
+\renewcommand{\theSubProblemNum}{\alph{SubProblemNum}}
+\newcommand*{\anyproblem}[1]{\subsection*{#1}}
+\newcommand*{\problem}[1]{\stepcounter{ProblemNum} %
+\anyproblem{Problem \theProblemNum. \; #1}}
+\newcommand*{\soln}[1]{\subsubsection*{#1}}
+\newcommand*{\solution}{\soln{Solution}}
+\renewcommand*{\part}{\stepcounter{SubProblemNum} %
+\soln{Part (\theSubProblemNum)}}
+\renewcommand{\theenumi}{(\alph{enumi})}
+\renewcommand{\labelenumi}{\theenumi}
+\renewcommand{\theenumii}{\roman{enumii}}
+\newcommand{\alg}[1]{\textsc{\bfseries \footnotesize #1}}
+
+% ----- INFO ----- %
+\title{4.10 Undecidability Worksheet}
+\author{Anghelo De La Cruz}
+\date{\today}
+
+% ----- DOCUMENT ----- %
+\begin{document}
+
+\subsection*{In your own words describe the characteristics that make
+  a problem tractable or untractable.  }
+
+A problem that is tractable is solvable in reasonable time. This means
+that a solution can be found within polynomial time or below
+$\mathcal{O}(2^n)$. A problem that is untractable is the opposite
+meaning it cannot be solved within polynomial time and is
+$\mathcal{O}(2^n)$ or above.
+
+\subsection*{What is the difference between problems in the class “P”
+  and problems in the class “NP”?}
+
+
+
+
+
+\end{document}

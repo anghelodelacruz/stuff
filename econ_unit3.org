@@ -1,0 +1,130 @@
+#+TITLE: Economics Unit 3 Notes
+
+* Summary
+
+** Fundamental Economic Concepts
+
+*** What is Economics all about?
+#+NAME: Mankiw's 'Ten Principles of Economics'
+| People face tradeoffs                                                               |
+| The cost of something is what you give up to get it                                 |
+| Rational people think at the margin                                                 |
+| People respond to incentives                                                        |
+| Trade can make everyone better off                                                  |
+| Markets are usually a good way to organise economic activity                        |
+| Governments can sometimes improve market outcomes                                   |
+| A country's standard of living depends on its ability to produce goods and services |
+| Prices rise when the government prints too much money                               |
+| Society faces a short-term trade off between inflation and unemployment             |
+
+*** Relative Scarcity
+
+Scarcity is the fundamental economic problem. This occurs when the
+assumption is made that our needs and wants can never be fully
+satisfied and therefore infinite but the resources needed are limited. 
+
+A need is seen as a good or service that is deemed to be necessary for
+one's survival.  A want is a good or service that is not necessary for
+one's survival.
+
+*** Resources & Key Economic Questions
+
+There are 3 main types of resources that can be used to produce goods
+and services. The factors of production are:
+
+1. Land/Natural
+2. Labour
+3. Capital
+
+- Land :: refers to all those resources that occur in nature and can
+           be utilised in production. Eg. water, minerals, agriculture
+- Labour :: refers to the mental and pyhsical effort by humans in the
+             production process.
+- Capital :: refers to hose resources that have been made by combining
+             labour and natural resources to create more sophisticated
+             input. Eg. Machinery, computers.
+
+There are three basic economic questions economies attempt to answer:
+
+1. What goods and services will be produced and in what quantities?
+2. How will goods and services be produced?
+3. For whom will these goods and services be produced?
+
+Differrent systems used to allocate resources
+
+- market capitalism :: where the majority of productive resources are
+     owned by private individuals and firms
+- planned socialism :: where the government is primarily responsible
+     for resource allocation. Socialism indicates that the majority of
+     productive assets are state owned (owned by the people of the
+     country collectively).
+- planned capitalism :: where the government directs the private
+     owners of productive assets to produce certain goods and
+     services. The output of the country is planned however the
+     ownership of factors of production remains with private
+     individuals. This has been used during times of war.
+- market socialism :: where the government owns most of the resources
+     (socialism) but markets determines what goods and services are
+     produced. 
+
+*** Choice & Opportunity Cost
+
+Opportunity cost is the value of the next best alternative that is
+foregone whenever a choice is made. (The value of what you have given
+up in making a choice).
+
+*** Production Possibility Frontier
+
+This diagram looks at the trade-off between producing two particular goods or services. 
+
+Things to note about the PPF:
+
+- for a movement along the curve the economy must sacrifice the
+  production of one good or service to another.
+- points outside the curve are not achievable at present. However
+  consumption can occur outside the curve through external borrowing.
+- over time the curve can expand as productivity increases.
+- points inside the current curve indicate underemployment or unemployment.
+- in reality no economy is likely to produce at the curve.
+
+*** Nature & Types of Economic Efficiency
+
+- Allocative Efficiency :: this occurs when no resources are wasted
+     and it will be imposible to make someone better off without
+     making someone else worse off. This is when societies wellbeing
+     is maximised.
+- Technical Efficiency :: this is when it is not possible to increase
+     output without increasing input. This is when productivity is at
+     its maximum.
+- Dynamic Efficiency :: refers to how quickly an economy can
+     reallocate resources to achieve allocative efficiency.
+- Intertemporal Efficiency :: focuses on the balance of the allocation
+     of resources between different time periods. This is the balance
+     between the level of consumption and savings at a point in time.
+
+** Microeconomics
+*** Introduction & Role of Markets
+*** Perfect Markets
+*** Law of Demand
+*** Law of Supply
+*** Market Equilibrium
+*** Effects
+*** Price Elasticity of Demand 
+*** Price Elasticity of Supply
+
+** Competitive Markets & Efficiency
+*** Efficiency & Markets
+*** Market Failure
+*** Government Failure
+** Macroeconomics
+
+
+
+
+
+
+* Questions
+
+** Activity Centre: Unit 3 Outcome 1
+
+

@@ -1,9 +1,95 @@
 #+TITLE: LIFE PLANNER
 
-* PROJECTS
+* School
+
+** Timetable
+  
+ #+NAME: Week_1
+ | Mon     | Tue    | Wed     | Thu     | Fri     |
+ |---------+--------+---------+---------+---------|
+ | Media   | Algo   | English | English | Econ    |
+ | English | Econ   | Econ    | Econ    | Econ    |
+ | Maths   | Ethics | Media   | Algo    | English |
+ | Algo    | Media  | Maths   | Maths   | Media   |
+ | Ethics  | Media  | Algo    | Maths   | Maths   |
+
+
+ #+NAME: Week_2
+ | Mon    | Tue     | Wed     | Thu     | Fri     |
+ |--------+---------+---------+---------+---------|
+ | Maths  | English | English | Media   | English |
+ | Media  | English | Algo    | -       | Econ    |
+ | Ethics | Algo    | Econ    | English | Maths   |
+ | Algo   | Econ    | Maths   | Econ    | Media   |
+ | Algo   | Ethics  | Media   | Maths   | Algo    |
+
+
+ 
+** TASKS
+*** Econ Notes Unit 3   
+*** Econ Notes Unit 4
+*** Reread No Sugar [0/8]                                               :eng:
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+    - [ ] 7
+    - [ ] 8
+*** Reread White Tiger [0/8]                                            :eng:
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+    - [ ] 7
+    - [ ] 8
+
+*** Atarnotes Resources                                                 :eng:
+*** Onenote [1/3]                                                       :eng:
+    - [ ] Comparison
+      - [ ] Read
+      - [ ] Compile
+    - [X] White Tiger
+    - [ ] No Sugar
+*** Mechanics Notes                                                   :spesh:
+    - [ ] Dynamics
+    - [ ] Vector Calc
+    - [ ] Kinematics
+*** ALGO Written Task                                                  :algo:
+*** Algo Notes Unit 4
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+    - [ ] 7
+    - [ ] 8
+* Projects
 ** CHURCH WEBSITE
 *** PLANNING 
     - Functionality
     - Examples
     - Wireframe
     - 
+** Business
+- [ ] Invoices
+* Someday-Maybe
+** Arch Linux on MBA
+** Arch on Desktop
+* Organising [4/9]
+- [X] Table
+- [ ] Cupboard
+- [X] Top Shelf
+- [X] Paper
+- [X] Left Shelf
+- [ ] Log Book
+- [ ] Hazel Folders 
+- [ ] MBA
+  - [ ] Downloads
+  - [ ] Desktop/Documents
+- [ ] PC
+
